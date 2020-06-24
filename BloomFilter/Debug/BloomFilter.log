@@ -1,0 +1,11 @@
+﻿  BloomFilter.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\wjh77\Source\Repos\BloomFilter\resource.h(17,1): warning C4005: 'ID_FILE_OPEN': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\atlmfc\include\afxres.h(215): message : see previous definition of 'ID_FILE_OPEN'
+C:\Users\wjh77\Source\Repos\BloomFilter\resource.h(18,1): warning C4005: 'ID_FILE_NEW': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\atlmfc\include\afxres.h(214): message : see previous definition of 'ID_FILE_NEW'
+C:\Users\wjh77\Source\Repos\BloomFilter\resource.h(21,1): warning C4005: 'ID_FILE_SAVE': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\atlmfc\include\afxres.h(217): message : see previous definition of 'ID_FILE_SAVE'
+C:\Users\wjh77\Source\Repos\BloomFilter\resource.h(23,1): warning C4005: 'IDC_STATIC': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\atlmfc\include\afxres.h(343): message : see previous definition of 'IDC_STATIC'
+  BloomFilter.vcxproj -> C:\Users\wjh77\Source\Repos\BloomFilter\Debug\BloomFilter.exe

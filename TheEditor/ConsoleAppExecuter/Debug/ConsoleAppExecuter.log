@@ -1,0 +1,4 @@
+﻿  ConsoleAppExecuter.cpp
+C:\Users\wjh77\Source\Repos\TheEditor\TheEditorcommon.h(1,9): warning C4068: unknown pragma
+C:\Users\wjh77\Source\Repos\TheEditor\ConsoleAppExecuter\ConsoleAppExecuter.cpp(7,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ConsoleAppExecuter.vcxproj -> C:\Users\wjh77\Source\Repos\TheEditor\Debug\ConsoleAppExecuter.exe

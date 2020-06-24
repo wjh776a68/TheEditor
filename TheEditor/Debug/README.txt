@@ -1,0 +1,1 @@
+Please extract MINGW64\MinGW64.rar to the MinGW64 folder.

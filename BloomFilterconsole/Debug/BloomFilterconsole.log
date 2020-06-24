@@ -1,0 +1,3 @@
+﻿  BloomFilterconsole.cpp
+C:\Users\wjh77\Source\Repos\BloomFilterconsole\BloomFilterconsole.cpp(362,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned int *'
+  BloomFilterconsole.vcxproj -> C:\Users\wjh77\Source\Repos\BloomFilterconsole\Debug\BloomFilterconsole.exe
